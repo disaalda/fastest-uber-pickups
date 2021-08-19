@@ -1,6 +1,6 @@
 # Assigning Fastest Uber Pick-Ups with Linear Programming
 
-A class project to formulate a real-life problem as an optimization problem. 
+A class project (Spring 2019) to formulate a real-life problem as an optimization problem. This project uses randomly generated fake data. 
 
 I represented Uber's system of drivers and riders as 'workers' and 'jobs' in The Assignment Problem, a particular instance of Maximum Flow Minimal Cut problem. I also represented the sytem as complete bipartite graph for illustration. I included the Python notebook submitted for grading. 
 
